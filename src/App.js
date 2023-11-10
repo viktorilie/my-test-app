@@ -11,7 +11,7 @@ function App() {
         <p>{t("welcome_msg")}</p>
         {/* <select>
           <option onClick={t("mk")}>MK</option>
-          <option onClick={t("de")}>DE</option>
+          <option onClick={t("da")}>DA</option>
           <option onClick={t("ar")}>AR</option>
         </select> */}
         <a
